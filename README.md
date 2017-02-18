@@ -7,12 +7,12 @@ Designed for black keycaps (fonts in white).
 - arrangement: L1 in center, L2-4 at top, L5+6 bottom right, QWERTY bottom left
 
 
-# Edit-version
+## Edit-version
 - fonts not converted to paths
 - alignment layers (as help for symbol arrangement)
 - black background layer to verify final look
 - font used: mainly Source Sans Pro (should be freely available)
 
-# Final-version
+## Final-version
 - removed unneeded layers (alignment, background color check)
 - converted all symbols to paths
